@@ -1,0 +1,7 @@
+nome para titulo do PR [Leticia Andrade]Lessons Learned
+
+linter: rode e ele diz se tem erro no seu css
+
+npm test: avalia se os requisitos do projeto estão atendidos
+
+
